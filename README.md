@@ -19,6 +19,24 @@
 
 <br />
 
+<img align="right" width="220" src="./assets/mantle-guardian.png" alt="A small navy and teal mantle guardian mascot" />
+
+## Meet the guardian
+
+A small reminder to stay curious, ship thoughtfully, and keep the interface friendly.
+
+## Selected work
+
+### [Mantle UI](https://github.com/Mantle-UI/mantle-ui)
+
+An independent, community-maintained React component library — continued from PrimeReact v10 and shaped for real products.
+
+[Explore Mantle UI →](https://github.com/Mantle-UI/mantle-ui) · [Join the Discord →](https://discord.gg/BGs6EkpnDv)
+
+<br clear="right" />
+
+<br />
+
 ## Building in the open
 
 I care about thoughtful, composable UI systems and the little details that make developer tools feel good to use.
@@ -31,6 +49,10 @@ Right now, that means maintaining **Mantle UI**, improving its documentation and
 
 <p align="center">
   <img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub contribution graph" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/sja-cslab/sja-cslab/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" />
 </p>
 
 <p align="center">
