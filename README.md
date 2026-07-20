@@ -19,28 +19,11 @@
 
 <br />
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+## Building in the open
 
-### What I'm building
+I care about thoughtful, composable UI systems and the little details that make developer tools feel good to use.
 
-- Thoughtful, composable UI systems
-- Better developer experiences
-- Open-source tools that last
-
-    </td>
-    <td width="50%" valign="top">
-
-### Current focus
-
-- **Mantle UI** — React components for real products
-- Docs, design systems, and pragmatic polish
-- Shipping small improvements consistently
-
-    </td>
-  </tr>
-</table>
+Right now, that means maintaining **Mantle UI**, improving its documentation and design system, and shipping practical progress one commit at a time.
 
 <br />
 
