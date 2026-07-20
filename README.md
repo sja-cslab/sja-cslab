@@ -21,11 +21,11 @@
 
 <img align="right" width="220" src="./assets/mantle-guardian.png" alt="A small navy and teal mantle guardian mascot" />
 
-## Meet the guardian
+<h3>Meet the guardian</h3>
 
 A small reminder to stay curious, ship thoughtfully, and keep the interface friendly.
 
-## Building in the open
+<h3>Building in the open</h3>
 
 I care about thoughtful, composable UI systems and the little details that make developer tools feel good to use.
 
