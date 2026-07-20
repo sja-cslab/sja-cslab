@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f172a,45:2563eb,100:14b8a6&text=Sven%20Jansen&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Open-source%20maintainer%20%E2%80%A2%20crafting%20calm%2C%20useful%20web%20experiences&descAlignY=60&animation=fadeIn" alt="Sven Jansen" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f172a,45:2563eb,100:14b8a6&text=Sven&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Open-source%20maintainer%20%E2%80%A2%20crafting%20calm%2C%20useful%20web%20experiences&descAlignY=60&animation=fadeIn" alt="Sven Jansen" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=900&color=22C55E&center=true&vCenter=true&width=720&lines=Building+useful+things+for+the+web.;Maintaining+Mantle+UI.;Open+source%2C+with+intention." alt="Profile introduction" />
