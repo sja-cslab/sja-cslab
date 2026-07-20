@@ -1,25 +1,57 @@
-<h1 align="center">Hi, I'm Sven.</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f172a,45:2563eb,100:14b8a6&text=Sven%20Jansen&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Open-source%20maintainer%20%E2%80%A2%20crafting%20calm%2C%20useful%20web%20experiences&descAlignY=60&animation=fadeIn" alt="Sven Jansen" />
 
 <p align="center">
-  Open-source maintainer · builder of useful things for the web
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=900&color=22C55E&center=true&vCenter=true&width=720&lines=Building+useful+things+for+the+web.;Maintaining+Mantle+UI.;Open+source%2C+with+intention." alt="Profile introduction" />
 </p>
 
 <p align="center">
-  I maintain <a href="https://github.com/Mantle-UI/mantle-ui">Mantle UI</a>, a community-maintained React component library.
+  I maintain <a href="https://github.com/Mantle-UI/mantle-ui"><strong>Mantle UI</strong></a> — a community-maintained React component library continued from PrimeReact v10.
 </p>
 
 <p align="center">
   <a href="https://github.com/Mantle-UI/mantle-ui">
-    <img src="https://img.shields.io/badge/Mantle_UI-Open_source-181717?style=for-the-badge&logo=github" alt="Mantle UI" />
+    <img src="https://img.shields.io/badge/maintaining-Mantle_UI-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Maintaining Mantle UI" />
+  </a>
+  <a href="https://discord.gg/BGs6EkpnDv">
+    <img src="https://img.shields.io/badge/join_the-community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the Mantle UI community on Discord" />
   </a>
 </p>
 
-<h2 align="center">Contributions</h2>
+<br />
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### What I'm building
+
+- Thoughtful, composable UI systems
+- Better developer experiences
+- Open-source tools that last
+
+    </td>
+    <td width="50%" valign="top">
+
+### Current focus
+
+- **Mantle UI** — React components for real products
+- Docs, design systems, and pragmatic polish
+- Shipping small improvements consistently
+
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<h2 align="center">The long game is made of small commits.</h2>
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
+  <img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub contribution graph" />
 </p>
 
 <p align="center">
-  <i>Making steady progress, one useful commit at a time.</i>
+  <sub>Built in public. Improved in the details.</sub>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:14b8a6,55:2563eb,100:0f172a" alt="" />
